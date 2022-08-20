@@ -1,1 +1,2 @@
 Hello world, indeed. Let's do a test.
+Shall we do another test? Yes!
